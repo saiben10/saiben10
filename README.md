@@ -35,7 +35,7 @@ Hi! I’m **Vallabhaneni Sai Krishna**, a passionate **DevOps Engineer**,holding
 | **Monitoring**           | Prometheus, Grafana, Loki, New Relic                                    |
 | **Programming & Scripting** | Bash, YAML                                                                                |
 | **Version Control**      | Git, GitHub, GitLab,                                                                                         |
-| **Other DevOps Tools**   | Nginx,  SonarQube,  Jfrog                                                                                      |
+| **Other DevOps Tools**   | ArgoCD, Nginx,  SonarQube,  Jfrog                                                                                      |
 
 ---
 
